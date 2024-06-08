@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-color: hsl(30, 38%, 92%);
+}
+.container2, img {
+height: 288px;
+width: 288px;
+}
+
+
+
+.attribution {
+     font-size: 11px; text-align: center; 
+    }
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
